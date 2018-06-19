@@ -20,5 +20,5 @@ The Ultrasonic sensor used was HC-SR04
 New Ping library was used for the ultrasonic sensor
 New Ping can be downloaded here: https://bitbucket.org/teckel12/arduino-new-ping/downloads/
 
-## This software was programmed by:
+### This software was programmed by:
 Galien1

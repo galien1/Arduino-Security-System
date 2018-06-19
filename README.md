@@ -13,9 +13,13 @@ This was made as a fun project to record movement detected and how far away it i
 * The light will profusely until movement is detected will the light turn to a solid red!
 * All mesurements are written to the Serial Monitor!
 
-## Ultrasonic sensor
-The Ultrasonic sensor used was HC-SR04
-
+## Parts List
+* Arduino Uno Chinese Board
+* Ultrasonic sensor used was HC-SR04
+* 7 GPIO male connectors
+* 1 large Breadboard
+* 1 250Ω resistor
+* 1 red led
 ## Libraries used
 New Ping library was used for the ultrasonic sensor</br>
 New Ping can be downloaded here: https://bitbucket.org/teckel12/arduino-new-ping/downloads/</br>

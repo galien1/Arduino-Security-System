@@ -7,8 +7,8 @@ If you exit out of the Serial Monitor All logs are lost and cannot be retreived 
 # Arduino-Security-System V 2.0
 Hello and welcome to the README of Arduino-Security-System
 This was made as a fun project to record movement detected and how far away it is detected.
--To see the output you will have to go into Serial Monitor mode on your Arduino software!
--If you exit out of the Serial Monitor All logs are lost and cannot be retreived therefore you will have to transfer all your logs onto a excel spreadsheet.
+* To see the output you will have to go into Serial Monitor mode on your Arduino software!
+* If you exit out of the Serial Monitor All logs are lost and cannot be retreived therefore you will have to transfer all your logs onto a excel spreadsheet.
 Features:
 The light will profusely until movement is detected will the light turn to a solid red!
 All mesurements are written to the Serial Monitor!

@@ -1,3 +1,4 @@
+// Made by Galien1
 #include <NewPing.h>
 float d;
 #define TRIGGER_PIN 12

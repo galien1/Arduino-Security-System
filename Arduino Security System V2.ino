@@ -1,8 +1,10 @@
-// Made by Galien1
+
+// This software has been made by Galien1
 #include <NewPing.h>
 float d;
 #define TRIGGER_PIN 12
 #define ECHO_PIN 11
+// VCC pin hooked into 5v and Gnd hooked into ground pin
 #define MAX_DISTANCE 200
 int redled = 6;
 void pinFlash(int pin,int value)
